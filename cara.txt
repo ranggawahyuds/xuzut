@@ -1,0 +1,9 @@
+✅script multicurency
+✅Ingat selalu buat ubah bet sebelum mulai.. Jagn sampai bet buat doge di run di ltc
+✅buat btc sepertinya belum work
+✅sebaiknya tidak menggunakan auto wd
+✅sc ini terpaksa gw share
+✅ printah.a 👇
+python jake.py currency
+✅contoh:
+python jake.py doge

@@ -1,0 +1,48 @@
+{
+ "Account": { "Username": "ranggawahyuf",
+              "Password": "admin009"
+              },
+
+"Interface":{ "Base Bet":"0.01",
+               "Max Bet":"2000",
+               "Chance":"49",
+               "Random":{"Auto": "on",
+                         "Min" : "70",
+                         "Max" : "75"
+                        },
+
+               "Cl_Seed":{"Auto"       :"on",
+                          "Every_Lose" : "2"
+                         }
+              },
+
+ "BetSet":{ "Bet"  : "L",
+            "H / L" :{"Auto"   : "off",
+                      "On Lose": "3",
+                      "On Win" : "1"
+                     }
+          },
+
+ "Increase" :{ "After Win"  : "1",
+               "After Lose" : "3.5"
+             },
+
+ "Reset"    :{ "If_Win"   : "1",
+               "If_Lose"  : "0"
+             },
+
+ "Stop"    :{ "Balance"  : "36000",
+              "If_Lose"  : "0",
+              "If_Prof"  : "2050"
+             },
+
+ "Withdraw" :{"Auto"   : "OFF",
+              "Initial": "1000",
+              "Trigger": "2000000",
+              "Wallet_doge" : "D6Bhk92oQX6xaaFkViLYVaJwur69xBr8qB",
+              "Wallet_ltc" : "MFSk9QchuDoqDsz6Fj4VnLfrvi84nwSmJu",
+              "Wallet_btc" : "3BAm1NZGbyQwG436JNTrXnJzVzxq1uXHzN",
+              "Wallet_eth" : "0x1dba62e7348689fc726f00374456dbb33496b213"
+              
+             }
+}
